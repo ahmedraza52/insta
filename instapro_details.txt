@@ -8,8 +8,6 @@ IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM
 InstaPro ♚ V18.0.3 Update Details:
 
 
-• [Added] Option to change Typewritter font style (AeroInsta Setttings > Stories > Typewritter font).
-
 • [Added] 31 font styles to Typewritter font styles.
 
 • [Added] Option to increase Multi-Capture photo shooting limit (AeroInsta Setttings > Stories > Increase Multi-Capture photo limit).
